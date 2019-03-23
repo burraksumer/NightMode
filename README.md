@@ -59,8 +59,8 @@ body.dark {
 ```
 At this point you should style you website to your liking and accessibility of course. Keep in mind that you are doing this for the user and keep them in your mind in the first place.
 
-### Voilà!
-You are pretty much done and it is looking like this.
+## Voilà!
+You are pretty much done and it's looking like this.
 
 ![alt text](https://raw.githubusercontent.com/burraksumer/NightMode/master/img/sc.gif "Showcase")
 
@@ -71,7 +71,7 @@ You are pretty much done and it is looking like this.
 * Make your contributions and I will check them every week.
 
 ## License & credits
-Created by [Burak Sümer](https://github.com/burraksumer), licensed under [MIT licence](https://github.com/cuddlecheek/night-mode-js/blob/master/LICENSE).
+Created by [Burak Sümer](https://github.com/burraksumer), licensed under [MIT licence](https://github.com/burraksumer/NightMode/blob/master/LICENSE).
 
 Buy me a [coffee⚡](https://tippin.me/@burraksumer).
 
