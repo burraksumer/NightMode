@@ -7,7 +7,7 @@ The era we live in definitely requires a night mode that user can turn on or off
 # Quickstart.
 Start by adding your website a button for this job. One like this: 
 
-*Photo here*
+![alt text](https://raw.githubusercontent.com/burraksumer/NightMode/master/img/button.png "Button")
 
 And give it the class of ***Moon***.
 
@@ -62,7 +62,7 @@ At this point you should style you website to your liking and accessibility of c
 ### Voilà!
 You are pretty much done and it is looking like this.
 
-*Gif here*
+![alt text](https://raw.githubusercontent.com/burraksumer/NightMode/master/img/sc.gif "Showcase")
 
 #### Some Notes:
 * This should work for whole website, just link to your **HTML**s and you are good to go.
