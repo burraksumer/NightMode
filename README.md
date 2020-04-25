@@ -1,6 +1,8 @@
 # Night Mode!
 This a free guide to add night mode on your basic website and make it more accessible!
 
+*Note:* There is a more efficient way to do that now. See [here](https://css-tricks.com/dark-modes-with-css/)
+
 # Why?
 The era we live in definitely requires a night mode that user can turn on or off on your website for the sake of everybodys eyes.
 
